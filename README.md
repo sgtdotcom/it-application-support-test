@@ -50,3 +50,22 @@ CREATE TABLE employees (
 Jika ada pertanyaan teknis, balas email ini atau hubungi tim recruitment.
 
 **Deadline:** [isi tanggal deadline di sini]
+
+
+---
+
+## Cara Kandidat Menyimpan Hasil Tes
+
+Jangan push hasil pekerjaan ke repository ini.
+
+Sebagai kandidat, Anda wajib:
+
+1. Buka [GitHub](https://github.com) lalu klik **New repository**.
+2. Buat repository baru dengan **nama Anda sendiri** (misalnya: `namakandidat-it-app-support-test`).
+3. Atur repository menjadi **Public**.
+4. Centang opsi **Add README file** agar ada petunjuk awal.
+5. Klik **Create repository**.
+6. Push seluruh hasil pekerjaan (Node.js project, SQL, README.md Anda sendiri) ke repo tersebut.
+7. Kirimkan **link repository GitHub publik Anda** kepada tim recruitment melalui email.
+
+Dengan demikian, setiap kandidat akan memiliki repo jawaban masing-masing.
