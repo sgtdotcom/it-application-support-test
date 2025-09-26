@@ -49,7 +49,6 @@ CREATE TABLE employees (
 ## Kontak
 Jika ada pertanyaan teknis, balas email ini atau hubungi tim recruitment.
 
-**Deadline:** [isi tanggal deadline di sini]
 
 
 ---
